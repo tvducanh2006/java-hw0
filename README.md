@@ -11,7 +11,7 @@ You will often encounter an unexpected challenge or two when learning a new tech
 ### Preparing Your Workspace
 
 1. If you haven't already done so, begin by following the instructions in part one of the Google Doc to [set up your IntelliJ project on your laptop](https://docs.google.com/a/macalester.edu/document/d/1zuF7pQvylonBkxgcCaY38sPsqXgPlp6YkB3yA_vHVbQ/edit?usp=sharing).
-2. Follow the instructions in [cloning a repo](https://docs.google.com/a/macalester.edu/document/d/15F5NFm5hoibSV9E5IDO8icvp3ddiJ4cjQ-dXgCP6S9Y/edit?usp=sharing) to clone https://github.com/mac-comp124-f17/124-hw0. After you fork the repo it will be available at https://github.com/your-github-username/124-hw0.
+2. Follow the instructions in [cloning a repo](https://docs.google.com/a/macalester.edu/document/d/15F5NFm5hoibSV9E5IDO8icvp3ddiJ4cjQ-dXgCP6S9Y/edit?usp=sharing) to clone https://github.com/mac-comp124-s18/124-hw0. After you fork the repo it will be available at https://github.com/your-github-username/124-hw0.
 
 ### Run the tests (they should fail)
 
