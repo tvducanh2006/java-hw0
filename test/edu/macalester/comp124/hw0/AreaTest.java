@@ -10,11 +10,11 @@ import static org.junit.Assert.*;
 public class AreaTest {
     @Test
     public void testSquare() {
-        assertEquals(Area.getSquareArea(3.0), 9.0, 0.001);
+        assertEquals(9.0, Area.getSquareArea(3.0), 0.001);
     }
 
     @Test
     public void testCircle() {
-        assertEquals(Area.getCircleArea(3.0), 28.2743, 0.001);
+        assertEquals(28.2743, Area.getCircleArea(3.0), 0.001);
     }
 }
